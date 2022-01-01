@@ -1,10 +1,9 @@
 import * as React from "react";
 import ReactDom from "react-dom";
-import HelloWorld from "./HelloWorld";
 
 ReactDom.render(
   <React.StrictMode>
-    <HelloWorld />
+    <div>hogehoge</div>
   </React.StrictMode>,
   document.getElementById('app')
 );
