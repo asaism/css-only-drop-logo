@@ -33,6 +33,7 @@ module.exports = {
     }),
   ],
   devServer: {
-      contentBase: path.join(__dirname, "dist"),
+    hot: "only",
+      //contentBase: path.join(__dirname, "dist"),
     },
 };
