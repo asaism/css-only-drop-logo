@@ -33,8 +33,6 @@ There are no caveats. It's just a simple project.
 # Author
 
 * asaism
-* Simple Moment LLC
-* suguru@asaism.com
 
 # License
 
