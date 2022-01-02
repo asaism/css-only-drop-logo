@@ -4,7 +4,7 @@ This project is an experiment to create a logo using only CSS.
 
 # Sample LOGO Image
 
-
+![sample log](sample-logo.png)
 
 # Features
 
