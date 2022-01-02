@@ -34,6 +34,9 @@ module.exports = {
     }),
   ],
   devServer: {
+    static: {
+      directory: path.join(__dirname, "dist"),
+    },
     hot: "only",
       //contentBase: path.join(__dirname, "dist"),
     },
